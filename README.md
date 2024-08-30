@@ -24,7 +24,6 @@ olive-tree-pruning-detection/
 │
 ├── data/
 │ └── sample_data/
-│ └── [sample images]
 │
 ├── docs/
 │ └── Report.pdf
