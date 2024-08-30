@@ -2,6 +2,8 @@
 
 This repository contains the code and resources for an olive tree pruning detection system using YOLOv7-tiny. The project aims to detect and classify pruned and unpruned olive trees in drone-captured images using object detection techniques.
 
+![image](https://github.com/user-attachments/assets/47f109cc-0d25-498b-ac5c-455310a941ec)
+
 ## Table of Contents
 
 - [Project Structure](#project-structure)
@@ -67,6 +69,8 @@ git clone https://github.com/WongKinYiu/yolov7
 ## Dataset
 
 The project utilizes two high-resolution TIF images of olive tree fields in Apulia, Italy, captured using a drone. The dataset contains both pruned and unpruned trees, labeled using the Computer Vision Annotation Tool (CVAT). Due to the proprietary nature of the full dataset, only sample images are provided in the `data/sample_data` directory for demonstration purposes.
+
+![field](https://github.com/user-attachments/assets/43b95c92-2653-4490-a9df-3b3056b2a4f2)
 
 ## Usage
 
